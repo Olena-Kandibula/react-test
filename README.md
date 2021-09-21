@@ -77,8 +77,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- npx mrm lint-staged -->
 
 <!-- добавить в package.json========== -->
-<!-- "homepage": "https://Olena-Kandibula.github.io/*****my-app****", -->
-<!--npm rau build-->
+<!-- "homepage": "https://Olena-Kandibula.github.io/react-test", -->
+<!--npm run build-->
 <!-- ================================= -->
 
 <!-- npm install --save gh-pages -->
